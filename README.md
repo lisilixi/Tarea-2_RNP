@@ -1,6 +1,7 @@
 # Tarea 2 - Aprendizaje Profundo
 
 Este repositorio contiene la solución desarrollada para la **Tarea 2** del curso Redes Neuronales Profundas, organizada en dos secciones principales, cada una implementada en su respectivo archivo Jupyter Notebook (`.ipynb`).
+Integrantes: Cristian Suazo y Lisa Soto
 
 ## Contenido del Repositorio
 
