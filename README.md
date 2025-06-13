@@ -16,7 +16,7 @@ Este repositorio contiene la solución desarrollada para la **Tarea 2** del curs
   - Radiación, Temperatura, Presión, Humedad, Dirección y Velocidad del viento
 - **Evaluación**: Se evalúa el desempeño predictivo comparando los resultados entre LSTM y GRU.
 
-📄 Archivo: `Tarea 2 - RNP_DL-1-2025.ipynb`
+Archivo: `Tarea 2 - RNP_DL-1-2025.ipynb`
 
 ---
 
@@ -30,7 +30,7 @@ Este repositorio contiene la solución desarrollada para la **Tarea 2** del curs
   - Manejo de pérdida ponderada y coherencia jerárquica
 - **Evaluación**: Métrica principal: **Macro F1-score**, adecuada para clases desbalanceadas y coherencia jerárquica.
 
-📄 Archivo: `Animal_Classification.ipynb`
+Archivo: `Animal_Classification.ipynb`
 
 ---
 
